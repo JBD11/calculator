@@ -1,11 +1,9 @@
 body{
     overflow: hidden;
-    background: linear-gradient(#f4f4ed, white);
+    background: linear-gradient(#f4f4ed, red);
 }
 
 .container{
-    border: 1px solid black;
-
     width: 95%;
     height: 100vh;
     margin: auto;
