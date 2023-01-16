@@ -10,3 +10,11 @@ Calculator app is the second milestone project for Code Institute Full Stack Sof
 #Languages Used
 
 HTML CSS JAVASCRIPT
+
+#Project Goals
+
+To show my knowlodge and understanding of HTML, CSS and JAVASCRIPT
+
+#Testing
+
+
